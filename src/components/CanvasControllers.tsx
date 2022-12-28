@@ -1,6 +1,6 @@
 import { FC } from 'react';
-export const Canvas: FC = () => {
+export const CanvasControllers: FC = () => {
     return (
-        <canvas id="canvas" width="400" height="400"></canvas>
+        <div></div>
     );
 }
